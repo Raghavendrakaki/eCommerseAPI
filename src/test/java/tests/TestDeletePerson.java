@@ -13,7 +13,10 @@ public class TestDeletePerson {
 	public void init() {
 		ConfigManager.getInstance();
 		psh = new PersonServiceHelper();
+
+		// test code 2
 		// Testcode2
+
 	}
 
 	@Test
